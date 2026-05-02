@@ -3,7 +3,7 @@
 A simple Flask + vanilla JavaScript RAG project for asking questions from uploaded PDFs without using OpenAI or any external AI API. It extracts PDF text locally, builds a lightweight vector index locally, retrieves the most relevant chunks, and answers using a local Ollama model.
 
 ## 🎥 Demo Video
-<video src="https://raw.githubusercontent.com/sanjeetthakur/askpdf/main/Demo.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/820ed663-d574-4888-8d6a-3d5d82751c46
 
 ## Features
 
