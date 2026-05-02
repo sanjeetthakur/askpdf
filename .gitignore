@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+*.err
+.venv/
+venv/
+storage/uploads/
+storage/indexes/
+.env
