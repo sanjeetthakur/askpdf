@@ -54,6 +54,28 @@ Follow these steps to get the project running quickly.
 - Ollama installed: [https://ollama.com](https://ollama.com)
 - ~2 GB disk space for the local model
 
+## Quick Setup (Python 3.11 Required)
+
+```bash id="w0i5sk"
+py -3.11 -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py runserver
+```
+
+### VS Code Interpreter Setup
+
+`Ctrl + Shift + P` → `Python: Select Interpreter` → Select:
+
+```text id="wjljlwm"
+.\venv\Scripts\python.exe
+```
+
+> Recommended Python Version: **Python 3.11.x**
+> AI/RAG libraries used in this project are tested and stable on Python 3.11.
+
+# OR
+
 ### Quick Start (6 Steps)
 
 **Step 1: Navigate to project directory**
