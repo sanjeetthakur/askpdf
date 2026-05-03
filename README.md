@@ -60,7 +60,7 @@ Follow these steps to get the project running quickly.
 py -3.11 -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-python manage.py runserver
+python app.py
 ```
 
 ### VS Code Interpreter Setup
